@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-github-username&count_bg=%239B9B9B&title_bg=%2367735D&icon=github.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://github.com/your-github-username)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-github-username&count_bg=%239B9B9B&title_bg=%2367735D&icon=github.svg&icon_color=%23E7E7E7&title=view&edge_flat=false)](https://github.com/HanGyuDeok)
   
 [![Git Follow](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/your-github-username)
 
@@ -14,7 +14,7 @@
   
 ### About Me
 
-⚡ 컴퓨터공학과 재학 중인 개발자
+⚡ 프론트 엔드 엔지니어
 
 ---
 
