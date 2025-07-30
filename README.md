@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Git Follow](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/HanGyuDeok)
+[![Git Follow](https://img.shields.io/github/followers/HanGyuDeok?style=social)](https://github.com/HanGyuDeok)
 
 </div>
 
@@ -31,6 +31,6 @@
 
 ### Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@example.com)](mailto:your-email@example.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyudeok0202@gmail.com)](mailto:gyudeok0202@gmail.com)
 
 </div>
